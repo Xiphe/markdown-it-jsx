@@ -1,6 +1,6 @@
 {
-  "name": "markdown-it-jsx",
-  "version": "1.0.0",
+  "name": "xiphe-markdown-it-jsx",
+  "version": "1.1.0-alpha1",
   "description": "markdown-it plugin for embedding JSX syntax instead of raw HTML.",
   "main": "index.js",
   "scripts": {
